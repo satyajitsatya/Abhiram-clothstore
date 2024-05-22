@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    margin: 2vw;
+    background-color: rgb(252, 252, 251);
+    border: solid gray;
+}
+
+
+.img-container{
+    height: 20vh;
+    width: 44%;
+
+}
+.inpdimg{
+    max-height: 100%;
+    width: auto;
+   
+}
+.details-container{
+    height: 20vh;
+    width: 66%;
+}
+.product-box{
+    margin-top: 3vh;
+}
+
+
